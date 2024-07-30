@@ -24,13 +24,6 @@
 
   ![class diagram](./docs/class-diagram.png)
 
-## Contributors
-
-- Kushagra Singh - **PES1UG20CS657**
-- Nikhil Raju Mohite - **PES1UG20CS667**
-- Pavan Kumar Nuthi - **PES1UG20CS670**
-- Pranav R - **PES1UG20CS673**
-
 ## Dependency
 
 – If you want to use PostgreSQL:
